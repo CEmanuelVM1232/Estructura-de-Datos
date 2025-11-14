@@ -16,3 +16,11 @@
 | Ejercicio de Pila con VisuAlgo | 
 |Actividad Ordenamiento por Intercambio por tarjetas| ![Imagen de WhatsApp 2025-10-28 a las 14 24 58_73012f25](https://github.com/user-attachments/assets/a0c9b945-7b40-4bba-bc57-0f2384c3b57c) | [Ordenamiento por Intercambio.pdf](https://github.com/user-attachments/files/23197378/Ordenamiento.por.Intercambio.pdf)
 
+
+
+## Unidad 3
+### Ejercicios Guiados
+| Actividad        | Evidencias           | Archivos  |
+| ------------- |:-------------:| -----:|
+| Actividad con Swing     | [U3Ejercicio_Guiado_Swing.pdf](https://github.com/user-attachments/files/23555966/U3Ejercicio_Guiado_Swing.pdf) |  |
+
