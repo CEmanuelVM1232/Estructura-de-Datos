@@ -24,3 +24,10 @@
 | ------------- |:-------------:| -----:|
 | Actividad con Swing     | [U3Ejercicio_Guiado_Swing.pdf](https://github.com/user-attachments/files/23555966/U3Ejercicio_Guiado_Swing.pdf) |  |
 
+
+## Unidad 3
+### Ejercicios Practicos
+| Actividad        | Evidencias           | Archivos  |
+| ------------- |:-------------:| -----:|
+|Identificacion de elementos de un árbol |[Ejercicio_Practico_1.pdf](https://github.com/user-attachments/files/23684086/Ejercicio_Practico_1.pdf)|
+
