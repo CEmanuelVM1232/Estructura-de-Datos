@@ -23,6 +23,9 @@
 | Actividad        | Evidencias           | Archivos  |
 | ------------- |:-------------:| -----:|
 | Actividad con Swing     | [U3Ejercicio_Guiado_Swing.pdf](https://github.com/user-attachments/files/23555966/U3Ejercicio_Guiado_Swing.pdf) |  |
+|Actividad Arbol Binario|[Act Arbol Binario.pdf](https://github.com/user-attachments/files/23828738/Act.Arbol.Binario.pdf)
+|[Clase Nodo.txt](https://github.com/user-attachments/files/23828742/Clase.Nodo.txt) [clase prueba arbol.txt](https://github.com/user-attachments/files/23828743/clase.prueba.arbol.txt)
+ [clase arbol binario.txt](https://github.com/user-attachments/files/23828741/clase.arbol.binario.txt)
 
 
 ## Unidad 3
