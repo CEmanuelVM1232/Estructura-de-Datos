@@ -1,5 +1,18 @@
 # Estructura-de-Datos
 ---
+## R1 Unidad 2
+|ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
+|---------|------------|--------|
+|Listas simplemente enlazadas|[Listas simplemente enlazadas.pdf](https://github.com/user-attachments/files/23887998/Listas.simplemente.enlazadas.pdf)|
+
+|Listas doblemente enlazadas||[Listas doblemente enlazadas.pdf](https://github.com/user-attachments/files/23890802/Listas.doblemente.enlazadas.pdf)|
+Pilas
+Colas
+Ordenamiento de arreglos
+
+---
+# Estructura-de-Datos
+---
 ## Unidad 2
 ---
 ### Ejercicios guiados 
