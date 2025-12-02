@@ -3,11 +3,11 @@
 ## R1 Unidad 2
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
 |---------|------------|--------|
-|Listas simplemente enlazadas|[Listas simplemente enlazadas.pdf](https://github.com/user-attachments/files/23887998/Listas.simplemente.enlazadas.pdf)|
-|Listas doblemente enlazadas|[Listas doblemente enlazadas.pdf](https://github.com/user-attachments/files/23890802/Listas.doblemente.enlazadas.pdf)|
+|Listas || simplemente enlazadas|[Listas simplemente enlazadas.pdf](https://github.com/user-attachments/files/23887998/Listas.simplemente.enlazadas.pdf)|
+|Listas || doblemente enlazadas|[Listas doblemente enlazadas.pdf](https://github.com/user-attachments/files/23890802/Listas.doblemente.enlazadas.pdf)|
 |Pilas| |[Pilas.pdf](https://github.com/user-attachments/files/23891056/Pilas.pdf)|
 |Colas||[Colas.pdf](https://github.com/user-attachments/files/23891516/Colas.pdf)|
-|Ordenamiento de arreglos|n|[Ordenamiento de Arreglos.pdf](https://github.com/user-attachments/files/23891552/Ordenamiento.de.Arreglos.pdf)|
+|Ordenamiento de arreglos||[Ordenamiento de Arreglos.pdf](https://github.com/user-attachments/files/23891552/Ordenamiento.de.Arreglos.pdf)|
 
 ---
 # Estructura-de-Datos
