@@ -45,6 +45,7 @@
 |[Clase Nodo.txt](https://github.com/user-attachments/files/23828742/Clase.Nodo.txt) [clase prueba arbol.txt](https://github.com/user-attachments/files/23828743/clase.prueba.arbol.txt)
  [clase arbol binario.txt](https://github.com/user-attachments/files/23828741/clase.arbol.binario.txt)
  |Conjuntos||[Conjuntos (1).pdf](https://github.com/user-attachments/files/23915916/Conjuntos.1.pdf)|
+ |Diccionario||[Diccionario.pdf](https://github.com/user-attachments/files/23916656/Diccionario.pdf)|
 
 
 
