@@ -9,6 +9,12 @@
 |Colas||[Colas.pdf](https://github.com/user-attachments/files/23891516/Colas.pdf)|
 |Ordenamiento de arreglos||[Ordenamiento de Arreglos.pdf](https://github.com/user-attachments/files/23891552/Ordenamiento.de.Arreglos.pdf)|
 
+## Practicos U2
+|ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
+|---------|------------|--------|
+|Comparacion de Colas|<img width="462" height="642" alt="image" src="https://github.com/user-attachments/assets/8a0d21ca-2443-49ff-ad70-798a9c034463" />|[Comparación_de_colas.java](https://github.com/user-attachments/files/23892088/Comparacion_de_colas.java)|
+||||
+||||
 ---
 # Estructura-de-Datos
 ---
