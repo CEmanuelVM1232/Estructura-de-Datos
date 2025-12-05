@@ -8,6 +8,7 @@
 |Pilas| |[Pilas.pdf](https://github.com/user-attachments/files/23891056/Pilas.pdf)|
 |Colas||[Colas.pdf](https://github.com/user-attachments/files/23891516/Colas.pdf)|
 |Ordenamiento de arreglos||[Ordenamiento de Arreglos.pdf](https://github.com/user-attachments/files/23891552/Ordenamiento.de.Arreglos.pdf)|
+|Mapa Mental Estructura de Datos|![MapaMental ED](https://github.com/user-attachments/assets/c04e4528-4302-474a-9ab4-b96a6196b57e)||
 
 ## Practicos U2
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
