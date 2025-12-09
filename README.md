@@ -3,8 +3,10 @@
 ## R1 Unidad 2
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
 |---------|------------|--------|
-|Listas || simplemente enlazadas|[Listas simplemente enlazadas.pdf](https://github.com/user-attachments/files/23887998/Listas.simplemente.enlazadas.pdf)|
-|Listas || doblemente enlazadas|[Listas doblemente enlazadas.pdf](https://github.com/user-attachments/files/23890802/Listas.doblemente.enlazadas.pdf)|
+|Listas |[Listas simplemente enlazadas (1).pdf](https://github.com/user-attachments/files/24064405/Listas.simplemente.enlazadas.1.pdf)
+| simplemente enlazadas|[Listas simplemente enlazadas (1).pdf](https://github.com/user-attachments/files/24064391/Listas.simplemente.enlazadas.1.pdf)|
+|Listas |[Listas doblemente enlazadas (1).pdf](https://github.com/user-attachments/files/24064416/Listas.doblemente.enlazadas.1.pdf)
+| doblemente enlazadas|[Listas doblemente enlazadas.pdf](https://github.com/user-attachments/files/23890802/Listas.doblemente.enlazadas.pdf)|
 |Pilas| |[Pilas.pdf](https://github.com/user-attachments/files/23891056/Pilas.pdf)|
 |Colas||[Colas.pdf](https://github.com/user-attachments/files/23891516/Colas.pdf)|
 |Ordenamiento de arreglos||[Ordenamiento de Arreglos.pdf](https://github.com/user-attachments/files/23891552/Ordenamiento.de.Arreglos.pdf)|
