@@ -47,6 +47,8 @@
  [clase arbol binario.txt](https://github.com/user-attachments/files/23828741/clase.arbol.binario.txt)
  |Conjuntos||[Conjuntos (1).pdf](https://github.com/user-attachments/files/23915916/Conjuntos.1.pdf)|
  |Diccionario||[Diccionario.pdf](https://github.com/user-attachments/files/23916656/Diccionario.pdf)|
+ |Servicio comunitario "Mega Parque "|![Mega Parque](https://github.com/user-attachments/assets/1a16e5cb-178d-49a5-bc7c-75ea3ff88a77)
+||
 
 
 
