@@ -59,8 +59,6 @@
 | Actividad        | Evidencias           | Archivos  |
 | ------------- |:-------------:| -----:|
 |Identificacion de elementos de un árbol |[Ejercicio_Practico_1.pdf](https://github.com/user-attachments/files/23684086/Ejercicio_Practico_1.pdf)|
-|Ejercicios Prácticos con Swing EJercicio 1|<img width="766" height="500" alt="Captura de pantalla 2025-12-08 223743" src="https://github.com/user-attachments/assets/5a27f739-b6f0-428c-a2af-4174070e924f" />
-|[Ejercicio1.zip](https://github.com/user-attachments/files/24061227/Ejercicio1.zip)|
-|Ejercicios Prácticos con Swing EJercicio 2|[Arbol Binario.pdf](https://github.com/user-attachments/files/24061176/Arbol.Binario.pdf)|[Ejercicio2.zip](https://github.com/user-attachments/files/24061222/Ejercicio2.zip)|
-|Ejercicios Prácticos con Swing EJercicio 3|<img width="738" height="441" alt="Captura de pantalla 2025-12-09 114152" src="https://github.com/user-attachments/assets/dc8340c4-d75c-406c-9a3b-c638392496d8" />
-|[Ejercicio3.zip](https://github.com/user-attachments/files/24061230/Ejercicio3.zip)|
+|Ejercicios Prácticos con Swing EJercicio 1|https://youtu.be/mWD1iaA52DA|[Ejercicio1.zip](https://github.com/user-attachments/files/24061227/Ejercicio1.zip)|
+|Ejercicios Prácticos con Swing EJercicio 2|https://youtu.be/CPxaND424TI|[Ejercicio2.zip](https://github.com/user-attachments/files/24061222/Ejercicio2.zip)|
+|Ejercicios Prácticos con Swing EJercicio 3|https://youtu.be/y932SwO2rCE|[Ejercicio3.zip](https://github.com/user-attachments/files/24061230/Ejercicio3.zip)|
