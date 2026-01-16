@@ -16,7 +16,8 @@
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
 |---------|------------|--------|
 |Comparacion de Colas|<img width="462" height="642" alt="image" src="https://github.com/user-attachments/assets/8a0d21ca-2443-49ff-ad70-798a9c034463" />|[Comparación_de_colas.java](https://github.com/user-attachments/files/23892088/Comparacion_de_colas.java)|
-||||
+|Simulación de supermercado ||[Uploading Simulación_de_supermercado.java…]()
+|
 ||||
 ---
 # Estructura-de-Datos
@@ -39,26 +40,6 @@
 
 
 
-## Unidad 3
-### Ejercicios Guiados
-| Actividad        | Evidencias           | Archivos  |
-| ------------- |:-------------:| -----:|
-| Actividad con Swing     | [U3Ejercicio_Guiado_Swing.pdf](https://github.com/user-attachments/files/23555966/U3Ejercicio_Guiado_Swing.pdf) |  |
-|Actividad Arbol Binario|[Act Arbol Binario.pdf](https://github.com/user-attachments/files/23828738/Act.Arbol.Binario.pdf)
-|[Clase Nodo.txt](https://github.com/user-attachments/files/23828742/Clase.Nodo.txt) [clase prueba arbol.txt](https://github.com/user-attachments/files/23828743/clase.prueba.arbol.txt)
- [clase arbol binario.txt](https://github.com/user-attachments/files/23828741/clase.arbol.binario.txt)
- |Conjuntos||[Conjuntos (1).pdf](https://github.com/user-attachments/files/23915916/Conjuntos.1.pdf)|
- |Diccionario||[Diccionario.pdf](https://github.com/user-attachments/files/23916656/Diccionario.pdf)|
- |Servicio comunitario "Mega Parque "|![Mega Parque](https://github.com/user-attachments/assets/1a16e5cb-178d-49a5-bc7c-75ea3ff88a77)
-||
 
 
 
-## Unidad 3
-### Ejercicios Practicos
-| Actividad        | Evidencias           | Archivos  |
-| ------------- |:-------------:| -----:|
-|Identificacion de elementos de un árbol |[Ejercicio_Practico_1.pdf](https://github.com/user-attachments/files/23684086/Ejercicio_Practico_1.pdf)|
-|Ejercicios Prácticos con Swing EJercicio 1|https://youtu.be/mWD1iaA52DA|[Ejercicio1.zip](https://github.com/user-attachments/files/24061227/Ejercicio1.zip)|
-|Ejercicios Prácticos con Swing EJercicio 2|https://youtu.be/CPxaND424TI|[Ejercicio2.zip](https://github.com/user-attachments/files/24061222/Ejercicio2.zip)|
-|Ejercicios Prácticos con Swing EJercicio 3|https://youtu.be/y932SwO2rCE|[Ejercicio3.zip](https://github.com/user-attachments/files/24061230/Ejercicio3.zip)|
