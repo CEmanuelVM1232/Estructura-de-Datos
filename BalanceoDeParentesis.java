@@ -1,5 +1,3 @@
-package Ejercicio5;
-
 /**
  * Verifica el balanceo de paréntesis en una expresión matemática
  * Utiliza una pila para rastrear la correspondencia de paréntesis
@@ -106,4 +104,5 @@ public class BalanceoDeParentesis {
         sc.close();
     }
 }
+
 
