@@ -1,4 +1,3 @@
-
 /**
  * Implementación de lista enlazada simple para números enteros positivos
  * Permite crear, recorrer y eliminar nodos según condición
@@ -156,4 +155,5 @@ public class ListaEnlazadaNumeros {
         scanner.close();
     }
 }
+
 
