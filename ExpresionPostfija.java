@@ -1,5 +1,3 @@
-package Ejercicio8;
-
 /**
  * Evaluador de expresiones en notación polaca inversa (postfija)
  * Utiliza una pila para evaluar expresiones matemáticas postfijas
@@ -146,4 +144,5 @@ public class ExpresionPostfija {
     }
 
 }
+
 
