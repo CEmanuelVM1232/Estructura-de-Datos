@@ -8,9 +8,8 @@ package Ejercicio3;
  * Demostración de verificación de estado de pila vacía
  * Muestra el uso del método isEmpty() en una pila personalizada
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
  
 import java.util.Scanner;
@@ -99,3 +98,4 @@ public class VerificarPilaVacia {
         sc.close();
     }
 }
+
