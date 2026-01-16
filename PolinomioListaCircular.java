@@ -1,14 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio4;
-
 /**
   * Polinomio implementado con lista enlazada circular
  * Último nodo apunta al primero, optimizando recorrido continuo * 
- * @author Fernando Miguel Olvera Juárez
- * @Septiembre 2025
+
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  *  
  */
 import java.util.Scanner;
@@ -160,3 +155,4 @@ public class PolinomioListaCircular {
         scanner.close();
     }
 }
+
