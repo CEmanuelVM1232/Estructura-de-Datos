@@ -1,5 +1,3 @@
-package Ejercicio4;
-
 /**
  * Utiliza una pila para invertir una palabra ingresada por el usuario
  * Demuestra el uso de pilas para operaciones de reversión de texto
@@ -78,5 +76,6 @@ public class InvertirPalabra  {
         sc.close();
     }
 }
+
 
 
