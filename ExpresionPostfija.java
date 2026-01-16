@@ -8,9 +8,8 @@ package Ejercicio8;
  * Evaluador de expresiones en notación polaca inversa (postfija)
  * Utiliza una pila para evaluar expresiones matemáticas postfijas
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 
@@ -149,4 +148,5 @@ public class ExpresionPostfija {
         
         sc.close();
     }
+
 }
