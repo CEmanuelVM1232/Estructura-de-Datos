@@ -1,17 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package comparacionColas;
-
-
 /**
  * Cola de números enteros con interfaz de usuario interactiva
  * Permite encolar, desencolar y consultar el estado de la cola
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 import java.util.Scanner;
@@ -305,4 +297,5 @@ public class Simulación_de_atencion_al_cliente {
         sistema.mostrarEstadisticas();
         sc.close();
     }
+
 }
