@@ -8,9 +8,8 @@ package Ejercicio4;
  * Utiliza una pila para invertir una palabra ingresada por el usuario
  * Demuestra el uso de pilas para operaciones de reversión de texto
  * 
- * @author Fernando Miguel Olvera Juarez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 import java.util.Scanner;
@@ -83,3 +82,4 @@ public class InvertirPalabra  {
         sc.close();
     }
 }
+
