@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Ejercicio5;
 
 /**
  * Verifica el balanceo de paréntesis en una expresión matemática
  * Utiliza una pila para rastrear la correspondencia de paréntesis
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 
@@ -111,3 +106,4 @@ public class BalanceoDeParentesis {
         sc.close();
     }
 }
+
