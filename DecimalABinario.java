@@ -1,5 +1,3 @@
-package Ejercicio6;
-
 /**
  * Conversión de números decimales a binarios usando una pila
  * Implementa el algoritmo de división sucesiva para conversión numérica
@@ -96,3 +94,4 @@ public class DecimalABinario {
     }
 
 }
+
