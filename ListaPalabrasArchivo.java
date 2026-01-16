@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio2;
-
 /**
  * Sistema de gestión de palabras usando lista enlazada desde archivo
  * Permite leer, agregar, eliminar y guardar palabras * 
- * @author Fernando Miguel Olvera Juárez
- * @Septiembre 2025
- *  
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 import java.util.Scanner;
 import java.io.*;
@@ -213,3 +206,4 @@ public class ListaPalabrasArchivo {
         scanner.close();
     }
 }
+
