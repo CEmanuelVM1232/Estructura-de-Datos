@@ -1,9 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio10;
-
 /**
  * Verificador de palíndromos usando una pila de caracteres
  * Determina si una palabra o frase se lee igual en ambos sentidos
@@ -124,3 +118,4 @@ public class VerificarPalindromo  {
     }
 
 }
+
