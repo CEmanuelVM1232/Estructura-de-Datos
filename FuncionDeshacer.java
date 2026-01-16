@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Ejercicio7;
 
 /**
  * Simulación de función Deshacer (Undo) usando una pila
  * Permite deshacer acciones en orden LIFO (Last In First Out)
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 
@@ -120,4 +115,5 @@ public class FuncionDeshacer {
         System.out.println("Total de acciones realizadas: " + historial.size());
         sc.close();
     }
+
 }
