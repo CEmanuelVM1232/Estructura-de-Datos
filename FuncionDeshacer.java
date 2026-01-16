@@ -1,5 +1,3 @@
-package Ejercicio7;
-
 /**
  * Simulación de función Deshacer (Undo) usando una pila
  * Permite deshacer acciones en orden LIFO (Last In First Out)
@@ -117,3 +115,4 @@ public class FuncionDeshacer {
     }
 
 }
+
