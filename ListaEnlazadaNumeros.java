@@ -1,16 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio1;
 
 /**
  * Implementación de lista enlazada simple para números enteros positivos
  * Permite crear, recorrer y eliminar nodos según condición
  * 
- * @author Fernando Miguel Olvera Juárez
- * @Septiembre 2025
- *  
+ * @author Carlos Emanuel Valentino Martínez
+ *  @author 1224100580.cevm@gmail.com
  */
 import java.util.Scanner;
 import java.util.Random;
@@ -162,3 +156,4 @@ public class ListaEnlazadaNumeros {
         scanner.close();
     }
 }
+
