@@ -8,9 +8,8 @@ package Ejercicio9;
  * Utiliza una pila para revertir el orden de una lista de números
  * Demuestra el uso de pilas para operaciones de reversión de secuencias
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
  
@@ -130,4 +129,5 @@ public class ReveritrLista {
         
         sc.close();
     }
+
 }
