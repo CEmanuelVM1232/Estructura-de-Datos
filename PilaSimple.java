@@ -1,16 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio1;
-
 /**
  * Implementación básica de pila con operaciones push y pop
  * Demuestra el funcionamiento fundamental de una pila LIFO
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 import java.util.Scanner;
 
@@ -121,3 +114,4 @@ public class PilaSimple {
         sc.close();
     }
 }
+
