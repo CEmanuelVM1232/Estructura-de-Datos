@@ -8,9 +8,8 @@ package Ejercicio10;
  * Verificador de palíndromos usando una pila de caracteres
  * Determina si una palabra o frase se lee igual en ambos sentidos
  * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 
 import java.util.Scanner;
@@ -123,4 +122,5 @@ public class VerificarPalindromo  {
         
         sc.close();
     }
+
 }
