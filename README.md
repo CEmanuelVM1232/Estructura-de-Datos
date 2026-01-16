@@ -16,8 +16,7 @@
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
 |---------|------------|--------|
 |Comparacion de Colas|<img width="462" height="642" alt="image" src="https://github.com/user-attachments/assets/8a0d21ca-2443-49ff-ad70-798a9c034463" />|[Comparación_de_colas.java](https://github.com/user-attachments/files/23892088/Comparacion_de_colas.java)|
-|Simulación de supermercado ||[Uploading Simulación_de_supermercado.java…]()
-|
+|Simulación de supermercado ||Simulación_de_supermercado.java|
 ||||
 ---
 # Estructura-de-Datos
