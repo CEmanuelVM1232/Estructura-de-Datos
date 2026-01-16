@@ -1,16 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio2;
-
 /**
  * Pila de nombres que permite ingresar nombres y mostrarlos en orden inverso
  * Implementa una pila LIFO para almacenamiento temporal de datos
- * 
- * @author Fernando Miguel Olvera Juárez
- * @version 1.0
- * @since Septiembre 2024
+ *
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 import java.util.Scanner;
 
@@ -94,3 +87,4 @@ public class PilasNombres  {
         sc.close();
     }
 }
+
