@@ -1,14 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio3;
-
 /**
  * Representación y evaluación de polinomios usando listas enlazadas
- * Cada término tiene coeficiente y exponente, se evalúa en rango 0-5 * 
- * @author Fernando Miguel Olvera Juárez
- * @Septiembre 2025
+ * Cada término tiene coeficiente y exponente, se evalúa en rango 0-5 
+ * 
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  *  
  */
 import java.util.Scanner;
@@ -122,3 +117,4 @@ public class PolinomioListaEnlazada {
         return resultado;
     }
 }
+
