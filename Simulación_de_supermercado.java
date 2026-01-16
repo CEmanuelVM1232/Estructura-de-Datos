@@ -1,10 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package comparacionColas;
-
-
 /**
  * Cola de nombres que permite ingresar nombres y procesarlos en orden FIFO
  * Implementa una cola para gestión secuencial de datos
@@ -224,3 +217,4 @@ public class Simulación_de_supermercado {
         sc.close();
     }
 }
+
