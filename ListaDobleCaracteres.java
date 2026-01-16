@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package Ejercicio5;
-
 /**
  * Lista doblemente enlazada de caracteres con ordenamiento alfabético
  * Cada nodo tiene enlaces anterior y siguiente, se ordena con burbuja * 
- * @author Fernando Miguel Olvera Juárez
- * @Septiembre 2025
- *  
+ * @author Carlos Emanuel Valentino Martínez
+ * @author 1224100580.cevm@gmail.com
  */
 import java.util.Scanner;
 
@@ -145,3 +138,4 @@ public class ListaDobleCaracteres {
         scanner.close();
     }
 }
+
