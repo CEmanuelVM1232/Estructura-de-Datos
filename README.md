@@ -1,4 +1,6 @@
 # Estructura-de-Datos
+## Profesor en la carpeta src estan todos los paquetes de cada uno de los ejercicios practicos los cuales cuentan las actividades, estoy al pendiente gracias.
+
 ---
 ## R1 Unidad 2
 |ACTIVIDAD| EVIDENCIAS |ARCHIVOS|
